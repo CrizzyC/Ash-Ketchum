@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://assets.pokemon.com//assets/cms2/img/misc/virtual-backgrounds/masters/forest.jpg);
+}
+
+h1 {
+    text-align: center;
+}
+
+.title {
+    color: white;
+    text-shadow:
+        0  2px #FF0000,
+        0 0 10px #FF0000,
+        0 0 20px #FF0000,
+        0 0 100px #FF0000;
+
+
+
+}
+
+.text {
+    color: #ffffff;
+    font-size: 140%;
+    background-color: black;
+    border-style: dashed;
+    text-shadow:
+        0 0 5px #FF0000,
+        0 0 10px #FF0000,
+        0 0 20px #FF0000,
+        0 0 100px #ff0000;
+}
+
+h1 {
+    background-color: black;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.title2 {
+    text-shadow:
+        0  2px #FFFF00,
+        0 0 10px #FFFF00,
+        0 0 20px #FFFF00,
+        0 0 100px #FFFF00;
+}
